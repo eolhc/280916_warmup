@@ -19,4 +19,4 @@ var thatArray = ["Facebook Platform","Erlang Enthusiasts","Ex-Girlfriends",
 
 var oneIdea = thisArray[Math.floor(Math.random() * thisArray.length)];
 var twoIdea = thatArray[Math.floor(Math.random() * thatArray.length)];
-console.log(oneIdea + twoIdea);
+console.log("a brILLLLLIANT STARTup idea for you sir is " + oneIdea + twoIdea);
